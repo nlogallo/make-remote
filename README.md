@@ -1,4 +1,4 @@
-# Make Remote Project
+# Make Remote
 
 ## Overview
 
@@ -11,8 +11,9 @@ This project allows you to remotely compile code through a client-server model. 
 
 ## Prerequisites
 
-- Node.js (v14 or higher)
-- npm (v6 or higher)
+- Node.js
+- npm
+- make (on server)
 
 ## Installation
 
